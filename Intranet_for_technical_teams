@@ -1,0 +1,27 @@
+# Intranet Planning and Implementation - Technical Overview
+
+For more technical details, I found an article that is highly relevant for planning and implementing an intranet. You can read the full article https://powell-software.com/resources/blog/how-to-build-an-intranet/.
+
+### Key Points:
+
+1. **Intranet Architecture**:
+   - An intranet typically requires a **centralized server** that hosts all internal resources and services, including document management systems, communication tools, and internal applications.
+   - You can also have **distributed servers** for better load balancing, depending on the size of the company.
+
+2. **Security Considerations**:
+   - Intranets must be protected with firewalls and access control mechanisms to ensure only authorized employees can access sensitive data.
+   - Encryption of data in transit (HTTPS) and at rest is critical for privacy.
+
+3. **Technology Stack**:
+   - Intranet portals often rely on technologies like **HTML, CSS, JavaScript** for the front-end, and **PHP, .NET**, or **Node.js** for back-end services.
+   - **Database management systems** like **MySQL** or **PostgreSQL** are used to store employee data, documents, and other resources.
+
+4. **User Access Management**:
+   - Using **single sign-on (SSO)** systems ensures users don’t have to remember multiple passwords, making it easier to control who has access to what data.
+   - Role-based access control (RBAC) is important for limiting access to sensitive company information.
+
+5. **Integration with Other Tools**:
+   - Intranets often need to integrate with other corporate tools like **email systems**, **HR management software**, and **project management tools** for a seamless user experience.
+
+### Conclusion:
+This article provides technical guidance on setting up an intranet, focusing on architecture, security, and integration with existing tools. It’s an essential read for Andrew as he begins the planning process.
